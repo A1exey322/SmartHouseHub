@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34322.80
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SmartHouseHub", "SmartHouseHub\SmartHouseHub.csproj", "{10786D37-90C9-4C82-8F08-C38DD56FB236}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Domain", "Domain", "{16BAF151-BB2F-47F0-9EC9-A3AF577068C0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SmartHouseHub.Domain", "SmartHouseHub.Domain\SmartHouseHub.Domain.csproj", "{484B6B7D-BA90-4F11-AE6D-21122E8C6CCA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DAL", "DAL", "{68C44B84-1A91-4412-BC6A-449342BF585A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SmartHouseHub.DAL", "SmartHouseHub.DAL\SmartHouseHub.DAL.csproj", "{2EE0EE77-21A3-47DD-8826-594A3F353CF9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Service", "Service", "{C44EF27A-9C2D-42DB-B2D4-B02160978F89}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SmartHouseHub.Service", "SmartHouseHub.Service\SmartHouseHub.Service.csproj", "{24005FE6-7363-4CAD-A462-41B8A5584F97}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10786D37-90C9-4C82-8F08-C38DD56FB236}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10786D37-90C9-4C82-8F08-C38DD56FB236}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10786D37-90C9-4C82-8F08-C38DD56FB236}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10786D37-90C9-4C82-8F08-C38DD56FB236}.Release|Any CPU.Build.0 = Release|Any CPU
+		{484B6B7D-BA90-4F11-AE6D-21122E8C6CCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{484B6B7D-BA90-4F11-AE6D-21122E8C6CCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{484B6B7D-BA90-4F11-AE6D-21122E8C6CCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{484B6B7D-BA90-4F11-AE6D-21122E8C6CCA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2EE0EE77-21A3-47DD-8826-594A3F353CF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EE0EE77-21A3-47DD-8826-594A3F353CF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EE0EE77-21A3-47DD-8826-594A3F353CF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EE0EE77-21A3-47DD-8826-594A3F353CF9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24005FE6-7363-4CAD-A462-41B8A5584F97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24005FE6-7363-4CAD-A462-41B8A5584F97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24005FE6-7363-4CAD-A462-41B8A5584F97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24005FE6-7363-4CAD-A462-41B8A5584F97}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{484B6B7D-BA90-4F11-AE6D-21122E8C6CCA} = {16BAF151-BB2F-47F0-9EC9-A3AF577068C0}
+		{2EE0EE77-21A3-47DD-8826-594A3F353CF9} = {68C44B84-1A91-4412-BC6A-449342BF585A}
+		{24005FE6-7363-4CAD-A462-41B8A5584F97} = {C44EF27A-9C2D-42DB-B2D4-B02160978F89}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AA1483F2-6D3C-497C-B963-6E9F891FFD1E}
+	EndGlobalSection
+EndGlobal

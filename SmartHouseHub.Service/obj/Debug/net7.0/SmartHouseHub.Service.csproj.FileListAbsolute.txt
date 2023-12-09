@@ -1,0 +1,17 @@
+D:\КПИ\3 курс\5 сем\ТРПЗ\Курсова\SmartHouseHub\SmartHouseHub.Service\obj\Debug\net7.0\SmartHouseHub.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\КПИ\3 курс\5 сем\ТРПЗ\Курсова\SmartHouseHub\SmartHouseHub.Service\obj\Debug\net7.0\SmartHouseHub.Service.AssemblyInfoInputs.cache
+D:\КПИ\3 курс\5 сем\ТРПЗ\Курсова\SmartHouseHub\SmartHouseHub.Service\obj\Debug\net7.0\SmartHouseHub.Service.AssemblyInfo.cs
+D:\КПИ\3 курс\5 сем\ТРПЗ\Курсова\SmartHouseHub\SmartHouseHub.Service\obj\Debug\net7.0\SmartHouseHub.Service.csproj.CoreCompileInputs.cache
+D:\КПИ\3 курс\5 сем\ТРПЗ\Курсова\SmartHouseHub\SmartHouseHub.Service\bin\Debug\net7.0\SmartHouseHub.Service.deps.json
+D:\КПИ\3 курс\5 сем\ТРПЗ\Курсова\SmartHouseHub\SmartHouseHub.Service\bin\Debug\net7.0\SmartHouseHub.Service.dll
+D:\КПИ\3 курс\5 сем\ТРПЗ\Курсова\SmartHouseHub\SmartHouseHub.Service\bin\Debug\net7.0\SmartHouseHub.Service.pdb
+D:\КПИ\3 курс\5 сем\ТРПЗ\Курсова\SmartHouseHub\SmartHouseHub.Service\bin\Debug\net7.0\SmartHouseHub.Domain.dll
+D:\КПИ\3 курс\5 сем\ТРПЗ\Курсова\SmartHouseHub\SmartHouseHub.Service\bin\Debug\net7.0\SmartHouseHub.Domain.pdb
+D:\КПИ\3 курс\5 сем\ТРПЗ\Курсова\SmartHouseHub\SmartHouseHub.Service\obj\Debug\net7.0\SmartHouseHub.Service.csproj.AssemblyReference.cache
+D:\КПИ\3 курс\5 сем\ТРПЗ\Курсова\SmartHouseHub\SmartHouseHub.Service\obj\Debug\net7.0\SmartHouseHub.Service.csproj.CopyComplete
+D:\КПИ\3 курс\5 сем\ТРПЗ\Курсова\SmartHouseHub\SmartHouseHub.Service\obj\Debug\net7.0\SmartHouseHub.Service.dll
+D:\КПИ\3 курс\5 сем\ТРПЗ\Курсова\SmartHouseHub\SmartHouseHub.Service\obj\Debug\net7.0\refint\SmartHouseHub.Service.dll
+D:\КПИ\3 курс\5 сем\ТРПЗ\Курсова\SmartHouseHub\SmartHouseHub.Service\obj\Debug\net7.0\SmartHouseHub.Service.pdb
+D:\КПИ\3 курс\5 сем\ТРПЗ\Курсова\SmartHouseHub\SmartHouseHub.Service\obj\Debug\net7.0\ref\SmartHouseHub.Service.dll
+D:\КПИ\3 курс\5 сем\ТРПЗ\Курсова\SmartHouseHub\SmartHouseHub.Service\bin\Debug\net7.0\SmartHouseHub.DAL.dll
+D:\КПИ\3 курс\5 сем\ТРПЗ\Курсова\SmartHouseHub\SmartHouseHub.Service\bin\Debug\net7.0\SmartHouseHub.DAL.pdb

@@ -1,0 +1,12 @@
+D:\КПИ\3 курс\5 сем\ТРПЗ\Курсова\SmartHouseHub\SmartHouseHub.Domain\bin\Debug\net7.0\SmartHouseHub.Domain.deps.json
+D:\КПИ\3 курс\5 сем\ТРПЗ\Курсова\SmartHouseHub\SmartHouseHub.Domain\bin\Debug\net7.0\SmartHouseHub.Domain.dll
+D:\КПИ\3 курс\5 сем\ТРПЗ\Курсова\SmartHouseHub\SmartHouseHub.Domain\bin\Debug\net7.0\SmartHouseHub.Domain.pdb
+D:\КПИ\3 курс\5 сем\ТРПЗ\Курсова\SmartHouseHub\SmartHouseHub.Domain\obj\Debug\net7.0\SmartHouseHub.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\КПИ\3 курс\5 сем\ТРПЗ\Курсова\SmartHouseHub\SmartHouseHub.Domain\obj\Debug\net7.0\SmartHouseHub.Domain.AssemblyInfoInputs.cache
+D:\КПИ\3 курс\5 сем\ТРПЗ\Курсова\SmartHouseHub\SmartHouseHub.Domain\obj\Debug\net7.0\SmartHouseHub.Domain.AssemblyInfo.cs
+D:\КПИ\3 курс\5 сем\ТРПЗ\Курсова\SmartHouseHub\SmartHouseHub.Domain\obj\Debug\net7.0\SmartHouseHub.Domain.csproj.CoreCompileInputs.cache
+D:\КПИ\3 курс\5 сем\ТРПЗ\Курсова\SmartHouseHub\SmartHouseHub.Domain\obj\Debug\net7.0\SmartHouseHub.Domain.dll
+D:\КПИ\3 курс\5 сем\ТРПЗ\Курсова\SmartHouseHub\SmartHouseHub.Domain\obj\Debug\net7.0\refint\SmartHouseHub.Domain.dll
+D:\КПИ\3 курс\5 сем\ТРПЗ\Курсова\SmartHouseHub\SmartHouseHub.Domain\obj\Debug\net7.0\SmartHouseHub.Domain.pdb
+D:\КПИ\3 курс\5 сем\ТРПЗ\Курсова\SmartHouseHub\SmartHouseHub.Domain\obj\Debug\net7.0\ref\SmartHouseHub.Domain.dll
+D:\КПИ\3 курс\5 сем\ТРПЗ\Курсова\SmartHouseHub\SmartHouseHub.Domain\obj\Debug\net7.0\SmartHouseHub.Domain.csproj.AssemblyReference.cache
